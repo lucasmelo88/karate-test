@@ -1,4 +1,0 @@
-19:33:59.780 skipping bootstrap configuration: could not find or read file: classpath:karate-config.js
-19:33:59.785 org.apache.http.client.ClientProtocolException, http call failed after 0 milliseconds for URL: /api/v1/holders
-19:33:59.789 http request failed: 
-org.apache.http.client.ClientProtocolException
